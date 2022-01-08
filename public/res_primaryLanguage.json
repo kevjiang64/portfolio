@@ -1,0 +1,126 @@
+{
+    "basic_info": {
+      "description_header": "Fresh Graduate in Computer Science at Concordia University",
+      "description": "👋 I just recently got my bachelors in CS at Concordia University with a GPA of 3.4. I'm currently working at Conova Solutions. I strive on upon self-progression and learning new technologies. Feel free to contact me for more information :)",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "aMuseMe.ai",
+        "startDate": "2020",
+        "description": "Music player that automatically plays songs based on the emotion conveyed through the facial expression of the user. 3rd place finisher in the Octave Group ConUHacks 5th Edition Hackathon Challenge.",
+        "images": [
+          "images/portfolio/aMuseMe/music.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Paper.io",
+        "startDate": "2020",
+        "description": "Hackathon project in which teams compete against each other in a game of Paper.io. A strategy game where the goal is to occupy the most amount of territory while eliminating the rest of the players within a square board",
+        "images": [
+          "images/portfolio/paper/paper.io.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "ATP Predictor",
+        "startDate": "2021",
+        "description": "Project comparing the efficiency of the Markov Chain method and logistic regression at predicting the outcome of tennis matches imported from a dataset from Kaggle",
+        "images": [
+          "images/portfolio/atp/atp.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Conova",
+        "title": "Cloud Developer",
+        "years": "1.2021 - present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "JavaScript",
+          "TypeScript",
+          "HTML",
+          "CSS",
+          "Amazon Web Services",
+          "Material UI"
+        ]
+      },
+      {
+        "company": "Consoltec",
+        "title": "Web Developer Intern",
+        "years": "05.2020 - 09.2020",
+        "mainTech": [
+          "C#"
+        ],
+        "technologies": [
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Angular",
+          "Kendo UI"
+        ]
+      },
+      {
+        "company": "Matrox Electronics Systems",
+        "title": "Validation Specialit FPGA",
+        "years": "09.2019 - 12.2019",
+        "mainTech": [
+          "Perl"
+        ],
+        "technologies": [
+          "C#",
+          "Linux",
+          "SunGrid Engine",
+          "Vivado"
+        ]
+      }
+    ]
+  }
