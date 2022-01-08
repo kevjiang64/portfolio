@@ -17,19 +17,15 @@
         "images": [
           "images/portfolio/aMuseMe/music.jpg"
         ],
-        "url": "",
+        "url": "https://devpost.com/software/amuseme",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "React"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },
@@ -40,15 +36,10 @@
         "images": [
           "images/portfolio/paper/paper.io.jpg"
         ],
-        "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },
@@ -59,19 +50,11 @@
         "images": [
           "images/portfolio/atp/atp.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/welleh/SOEN471",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       }
@@ -80,7 +63,7 @@
       {
         "company": "Conova",
         "title": "Cloud Developer",
-        "years": "1.2021 - present",
+        "years": "1.2021 - 1.2022",
         "mainTech": [
           "React"
         ],
@@ -110,7 +93,7 @@
       },
       {
         "company": "Matrox Electronics Systems",
-        "title": "Validation Specialit FPGA",
+        "title": "Validation Specialist FPGA",
         "years": "09.2019 - 12.2019",
         "mainTech": [
           "Perl"
