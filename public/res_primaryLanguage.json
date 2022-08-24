@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Fresh Graduate in Computer Science at Concordia University",
-      "description": "👋 I just recently got my bachelors in CS at Concordia University with a GPA of 3.4. I'm currently working at Conova Solutions. I strive on upon self-progression and learning new technologies. Feel free to contact me for more information :)",
+      "description": "👋 I just recently got my bachelors in CS at Concordia University with a GPA of 3.4. I'm currently working as Software Developer at Broadsign International. I strive upon self-progression and learning new technologies. Feel free to contact me for more information :)",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -61,6 +61,19 @@
     ],
     "experience": [
       {
+        "company": "Broadsign International",
+        "title": "Software Developer",
+        "years": "1.2022 - Present",
+        "mainTech": [
+          "Vue.Js",
+          "C#"
+        ],
+        "technologies": [
+          "TypeScript",
+          "Vuetify"
+        ]
+      },
+      {
         "company": "Conova",
         "title": "Cloud Developer",
         "years": "1.2021 - 1.2022",
@@ -81,10 +94,9 @@
         "title": "Web Developer Intern",
         "years": "05.2020 - 09.2020",
         "mainTech": [
-          "C#"
+          "Javascript"
         ],
         "technologies": [
-          "JavaScript",
           "HTML",
           "CSS",
           "Angular",
